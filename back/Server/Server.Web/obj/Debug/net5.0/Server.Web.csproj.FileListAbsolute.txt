@@ -1,0 +1,6 @@
+C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Web\obj\Debug\net5.0\Server.Web.csproj.AssemblyReference.cache
+C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Web\obj\Debug\net5.0\Server.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Web\obj\Debug\net5.0\Server.Web.AssemblyInfoInputs.cache
+C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Web\obj\Debug\net5.0\Server.Web.AssemblyInfo.cs
+C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Web\obj\Debug\net5.0\Server.Web.csproj.CoreCompileInputs.cache
+C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Web\obj\Debug\net5.0\Server.Web.MvcApplicationPartsAssemblyInfo.cache
