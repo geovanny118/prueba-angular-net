@@ -1,5 +1,15 @@
+C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Data\bin\Debug\net5.0\Server.Data.deps.json
+C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Data\bin\Debug\net5.0\Server.Data.runtimeconfig.json
+C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Data\bin\Debug\net5.0\Server.Data.runtimeconfig.dev.json
+C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Data\bin\Debug\net5.0\Server.Data.dll
+C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Data\bin\Debug\net5.0\Server.Data.pdb
 C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Data\obj\Debug\net5.0\Server.Data.csproj.AssemblyReference.cache
 C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Data\obj\Debug\net5.0\Server.Data.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Data\obj\Debug\net5.0\Server.Data.AssemblyInfoInputs.cache
 C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Data\obj\Debug\net5.0\Server.Data.AssemblyInfo.cs
 C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Data\obj\Debug\net5.0\Server.Data.csproj.CoreCompileInputs.cache
+C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Data\obj\Debug\net5.0\Server.Data.dll
+C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Data\obj\Debug\net5.0\refint\Server.Data.dll
+C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Data\obj\Debug\net5.0\Server.Data.pdb
+C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Data\obj\Debug\net5.0\Server.Data.genruntimeconfig.cache
+C:\Users\Geovanny\Documents\GitHub\prueba-angular-net\back\Server\Server.Data\obj\Debug\net5.0\ref\Server.Data.dll

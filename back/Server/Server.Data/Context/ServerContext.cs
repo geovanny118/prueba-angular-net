@@ -59,7 +59,7 @@ namespace Server.Data.Context
 
         public DbSet<UserRefreshToken> UserToken { get; set; }
 
-        public DbSet<Rol> Roles { get; set; }
+        public DbSet<Rol> RolesApplicationUsers { get; set; }
 
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
     }

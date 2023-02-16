@@ -17,12 +17,12 @@ namespace Server.Data.Models
         /// <summary>
         /// Ultimo usuario que hizo una modificación
         /// </summary>
-        public string ModifiedBy { get; set; }
+        public string? ModifiedBy { get; set; }
 
         /// <summary>
         /// Usuario qeu creo el registro
         /// </summary>
-        public string CreatedBy { get; set; }
+        public string? CreatedBy { get; set; }
 
         /// <summary>
         /// Actualiza el nombre del usuario que dispara la creación

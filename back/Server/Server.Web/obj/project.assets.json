@@ -1879,6 +1879,19 @@
         "runtime": {
           "bin/placeholder/Server.Data.dll": {}
         }
+      },
+      "Server.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Server.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Server.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Server.Services.dll": {}
+        }
       }
     }
   },
@@ -6378,6 +6391,11 @@
       "type": "project",
       "path": "../Server.Data/Server.Data.csproj",
       "msbuildProject": "../Server.Data/Server.Data.csproj"
+    },
+    "Server.Services/1.0.0": {
+      "type": "project",
+      "path": "../Server.Services/Server.Services.csproj",
+      "msbuildProject": "../Server.Services/Server.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6390,6 +6408,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.17",
       "Newtonsoft.Json >= 13.0.2",
       "Server.Data >= 1.0.0",
+      "Server.Services >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3",
       "System.Text.Json >= 5.0.2"
     ]
@@ -6427,6 +6446,9 @@
           "projectReferences": {
             "C:\\Users\\Geovanny\\Documents\\GitHub\\prueba-angular-net\\back\\Server\\Server.Data\\Server.Data.csproj": {
               "projectPath": "C:\\Users\\Geovanny\\Documents\\GitHub\\prueba-angular-net\\back\\Server\\Server.Data\\Server.Data.csproj"
+            },
+            "C:\\Users\\Geovanny\\Documents\\GitHub\\prueba-angular-net\\back\\Server\\Server.Services\\Server.Services.csproj": {
+              "projectPath": "C:\\Users\\Geovanny\\Documents\\GitHub\\prueba-angular-net\\back\\Server\\Server.Services\\Server.Services.csproj"
             }
           }
         }
